@@ -24,6 +24,9 @@
 - [A mover near me for your Blue Springs move](https://local-business-guides.github.io/out-and-in-moving-blue-springs/mover-near-me/): Need a mover near me in Blue Springs? Plan your home move, packing, or heavy-item handling with Out & In Moving. Call to discuss dates and access.
 - [Questions to ask mover companies Blue Springs](https://local-business-guides.github.io/out-and-in-moving-blue-springs/mover-companies-blue-springs/): Comparing mover companies Blue Springs? Get help planning a home or office move, from packing to heavy items. Call Out & In Moving today.
 
+## Newsroom
+- [Out & In Moving Shares Blue Springs Moving Guide in Four Formats](https://local-business-guides.github.io/out-and-in-moving-blue-springs/news/2026-11-06-out-in-moving-shares-blue-springs-moving-guide-in/): Out & In Moving released a guide for people planning a move, with a related video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Movers in Blue Springs, Missouri](https://local-business-guides.github.io/out-and-in-moving-blue-springs/): Get help with home, office, and specialty moves from a Blue Springs team that plans around your items, access, and schedule. Call +1816-521-9669.
 - [About Out & In Moving](https://local-business-guides.github.io/out-and-in-moving-blue-springs/about/): About Out & In Moving, Blue Springs.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/out-and-in-moving-blue-springs/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/out-and-in-moving-blue-springs/news/rss.xml)
 - [Main resource site](https://out-and-in-moving-blue-springs.localbusinesses1.chatgpt.site)

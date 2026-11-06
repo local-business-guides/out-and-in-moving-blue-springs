@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/out-and-in-moving-blue-springs/sitemap.xml
+Sitemap: https://local-business-guides.github.io/out-and-in-moving-blue-springs/news-sitemap.xml
